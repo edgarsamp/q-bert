@@ -1,54 +1,54 @@
 # Implementação no Rars usando:
-- [ ] Interface gráfica (Bitmap Display, 320×240, 8 bits/pixel)
-- [ ] Interface com teclado (Keyboard and Display MMIO simulator)
-- [ ] Interface de áudio MIDI (ecalls 31, 32, 33)
+- [x] Interface gráfica (Bitmap Display, 320×240, 8 bits/pixel)
+- [x] Interface com teclado (Keyboard and Display MMIO simulator)
+- [x] Interface de áudio MIDI (ecalls 31, 32, 33)
 
 # Implementação do Jogo
-- [ ] Um jogador com tela de inicio, start e pause
-- [ ] Movimentos dos personagens conforme o jogo original (animação)
-- [ ] Sistema de pontuação e fases
+- [x] Um jogador com tela de inicio, start e pause
+- [x] Movimentos dos personagens conforme o jogo original (animação)
+- [x] Sistema de pontuação e fases
 - [ ] Inimigos com dificuldade crescente
-- [ ] Indicação na tela de pontuação e nível dificuldade atual
-- [ ] Efeitos sonoros durante o jogo
-- [ ] Novas características
+- [x] Indicação na tela de pontuação e nível dificuldade atual
+- [x] Efeitos sonoros durante o jogo
+- [x] Novas características
 
 ## Arte
-- [ ] Modelo q*bert
-- [ ] Modelo fases do jogo
-- [ ] Modelo inimigos
-- [ ] Customizações do personagem
-- [ ] Interface do jogo
-- [ ] Tela inicial
-- [ ] Tela de pause
-- [ ] Tela de game over
-- [ ] Animação de movimento q*bert
-- [ ] Animação de movimento inimigos
-- [ ] Animação de cenário (???)
+- [x] Modelo q*bert
+- [x] Modelo fases do jogo
+- [x] Modelo inimigos
+- [x] Customizações do personagem
+- [x] Interface do jogo
+- [x] Tela inicial
+- [x] Tela de pause
+- [x] Tela de game over
+- [x] Animação de movimento q*bert
+- [x] Animação de movimento inimigos
+- [x] Animação de cenário (???)
 
 ## Som
 - [ ] Som ambiente
-- [ ] Som do qbert
+- [x] Som do qbert
 - [ ] Som dos inimigos
 
 ## Mecanicas
-- [ ] Mostrar o fundo do jogo
-- [ ] Mostrar o qbert
+- [x] Mostrar o fundo do jogo
+- [x] Mostrar o qbert
 - [ ] Mostrar os inimigos
 - [ ] Mostrar as inimações
-- [ ] Mostrar a interface do jogo
-- [ ] Implementação sonora
-- [ ] Tabuleiro do jogo
-- [ ] Movimento do personagem
+- [x] Mostrar a interface do jogo
+- [x] Implementação sonora
+- [x] Tabuleiro do jogo
+- [x] Movimento do personagem
 - [ ] Movimento dos inimigos
-- [ ] Pontuação
-- [ ] Fases
+- [x] Pontuação
+- [x] Fases
 - [ ] Dificuldade dos inimigos
 
 # Relatorio
-- [ ] Resumo
-- [ ] Introdução
-- [ ] Metodologia
-- [ ] Resultados obtidos
-- [ ] Conclusão
-- [ ] Referências bibliográficas
-- [ ] 4 páginas
+- [x] Resumo
+- [x] Introdução
+- [x] Metodologia
+- [x] Resultados obtidos
+- [x] Conclusão
+- [x] Referências bibliográficas
+
