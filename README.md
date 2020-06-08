@@ -1,9 +1,11 @@
-# Implementação no Rars usando:
+Projeto de desenvolvimento de uma nova versão do jogo [Q*bert](https://pt.wikipedia.org/wiki/Q*bert) em Assembly utilizando o simulador RARS com a arquitetura RISC-V.
+
+## Implementação no Rars usando:
 - [x] Interface gráfica (Bitmap Display, 320×240, 8 bits/pixel)
 - [x] Interface com teclado (Keyboard and Display MMIO simulator)
 - [x] Interface de áudio MIDI (ecalls 31, 32, 33)
 
-# Implementação do Jogo
+## Implementação do Jogo
 - [x] Um jogador com tela de inicio, start e pause
 - [x] Movimentos dos personagens conforme o jogo original (animação)
 - [x] Sistema de pontuação e fases
@@ -12,7 +14,7 @@
 - [x] Efeitos sonoros durante o jogo
 - [x] Novas características
 
-## Arte
+### Arte
 - [x] Modelo q*bert
 - [x] Modelo fases do jogo
 - [x] Modelo inimigos
@@ -25,12 +27,12 @@
 - [x] Animação de movimento inimigos
 - [x] Animação de cenário (???)
 
-## Som
+### Som
 - [ ] Som ambiente
 - [x] Som do qbert
 - [ ] Som dos inimigos
 
-## Mecanicas
+### Mecanicas
 - [x] Mostrar o fundo do jogo
 - [x] Mostrar o qbert
 - [ ] Mostrar os inimigos
@@ -44,7 +46,7 @@
 - [x] Fases
 - [ ] Dificuldade dos inimigos
 
-# Relatorio
+### Relatorio
 - [x] Resumo
 - [x] Introdução
 - [x] Metodologia
